@@ -9,5 +9,6 @@ public class Main{
             ans= ans +i;
         }
         System.out.print(ans);
+        sc.close();
     }
 }

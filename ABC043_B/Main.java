@@ -1,4 +1,4 @@
-package AtCoder.ABC043_B;
+package ABC043_B;
 import java.util.*;
 
 public class Main {

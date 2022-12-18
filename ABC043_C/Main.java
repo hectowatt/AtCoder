@@ -18,6 +18,7 @@ public class Main {
         }
 
         System.out.print((int)ans);
+        sc.close();
 
     }
 }
